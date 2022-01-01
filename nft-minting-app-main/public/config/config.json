@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x36E2DCd9D3F866315C81b43AB8ed068a2fb84035",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x36e2dcd9d3f866315c81b43ab8ed068a2fb84035",
+  "NETWORK": {
+    "NAME": "ethereum",
+    "SYMBOL": "eth",
+    "ID": 4
+  },
+  "NFT_NAME": "nta",
+  "SYMBOL": "nt",
+  "MAX_SUPPLY": 3333,
+  "WEI_COST": 30000000000000000,
+  "DISPLAY_COST": 0.03,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/ntest-dya8bigdhi",
+  "SHOW_BACKGROUND": true
+}
